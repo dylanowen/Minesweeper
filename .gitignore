@@ -7,3 +7,14 @@ Dummy.java
 README.txt
 myscores.dat
 *Copy.PNG
+.DS_Store
+################################
+##       Gradle junk          ##
+################################
+.gradle/
+*.iml
+*.ipr
+*.iws
+.idea
+out
+build
